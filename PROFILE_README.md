@@ -9,9 +9,9 @@ Full portfolio here, experience, projects, skills, everything.
 
 ---
 
-**Currently:** Data Scientist at Project 990, building RAG and text-to-SQL systems over 3.7M+ IRS records.
+**Currently:** Data Scientist at Project 990, building RAG and training ML models.
 
-**Recently:** AI Research Assistant at Kelley School of Business, deployed an IRB approved research platform live with real study participants.
+**Recently:** AI Research Assistant at Kelley School of Business, deployed an IRB approved research interview-platform live with real study participants.
 
 **Building with:** Python · PyTorch · LangChain · FastAPI · PostgreSQL · Tableau · Power BI
 
